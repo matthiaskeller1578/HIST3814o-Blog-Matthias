@@ -5,3 +5,4 @@ While doing the readings I found it very interesting reading aboubt how hisotira
 
 The digitalization of manuscaripts from ship logs to newspapers are exermly important as most of this information is slowly being lost and falling apart. Digitalizing these sources will allow this information to live on frever and is importnat for historians to do research. Utilizing coding to develop words which can be searched through pictures, symbols and un-redable words will save researchers a lot of time, and can aid in providing greater insight. It reminds me a bit of the annotations that we do for this class. Where we are able to annotate particular parts and we can all help each other to further understand what that part means.
 
+#### What We Did This Week- Exercises
