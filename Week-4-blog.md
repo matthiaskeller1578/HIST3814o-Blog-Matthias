@@ -20,11 +20,13 @@ Or does it matter? Make reference (or link to) key annotations, whether by you o
 ### Commands and Learning objectives
 To start with learning about wrangling data, we first read over ______ textbook moduel. I found it to be a bit confussing to follow, but defenitly a good read to understand what we are trying to do this week!
 One of the first commands that I entered into DHbox this week was: 
-curl http://archive.org/stream/diplomaticcorre33statgoog/diplomaticcorre33statgoog_djvu.txt > texas.txt
+
+`curl http://archive.org/stream/diplomaticcorre33statgoog/diplomaticcorre33statgoog_djvu.txt > texas.txt`
+
 The curl informs DHbox to download the link that I provided, and the > tells DHbox to put it in a new file called texas.txt
 Once I had downloaded this file to my computer, I opened it in a text file to delete all of the unwanted information which I found easier to do than going through the whole entire file on DHbox. I then reuploaded it. 
 
 The command:
-grep '~' texas.txt > index.txt
+`grep '~' texas.txt > index.txt`
 makes everything so much easier! WHen I first read the instructions I thought that I would have to go through all of texas.txt file to remove lines without '~' but instead I was able to get grep to do it for me! 
 
