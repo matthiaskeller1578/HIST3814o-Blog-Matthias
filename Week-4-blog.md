@@ -3,6 +3,8 @@
 This week we are looking into wrangling data, while also looking at sources from the Republic of Texas images. 
 This week we are going to be building upon what we learned last week, which I belive will be a bit challenging as I found difficulty with last weeks exercises. However, I am excited to learn about the Republic of Texas, as I find its history to be interesting! I have always wanted to learn more about Texas' history, as I recently foud out that some of my ancestors were the original settler and founders of Keller, Texas. What a great way to incorprate my intrest of Texan histroy and digital history!
 
+What I learned this week about wrangling data, has been been very interesting and benificial. I thought that it was really cool how the program was able to identify words that look similar and the ability to merge them together. The program identified similar names and allowed me to merge the names together. It is similar to how when you search for something online that it can identify something similar eventhough it is spelled wrong. This is valuable in studying hisotry, as names of places change over time, and so does spelling. Not only does it change but sometimes it can be hard for hisotirans to decifer spelling, therefore having a program which can identify similarities is beneficial for historians whom might seek to find how things are related. This system helps to connect the dots and show the relationship between particualrs.
+
 ### Reading: Space, Nation, and the Triumph of Region: A View of the World from Houston
 
 The article by Cameron Blevins, addresses 
