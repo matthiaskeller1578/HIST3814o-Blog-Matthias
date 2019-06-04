@@ -7,26 +7,19 @@ What I learned this week about wrangling data, has been been very interesting an
 
 ### Reading: Space, Nation, and the Triumph of Region: A View of the World from Houston
 
-The article by Cameron Blevins, addresses 
-
-
-On your blog, reflect on any data cleaning you've had to do in other classes.
-
-Why don't historians discuss this kind of work?
-What gets hidden, what gets lost, how is the ultimate argument weaker as a result?
-Or does it matter? Make reference (or link to) key annotations, whether by you or one of your peers, to support your points.
-
+The article by Cameron Blevins, examines how a symbol or geographical area can represent a certain idea or place. Blevins uses digital history to compile the locations mentioned in news papers across the United States to determine what place was emphasized and how that altered the perception of that place. I found the article to be a bit boring at first, but once I completed the exercises for this course and went back and re-read the article it all really made sense. I found it to be particually interesting how we can digitalize sources, and then have them develop data to examine hisotry. I have never had to do "data cleaning" persay in other classes, but I have noticed in PDF's that some words look like `J0hn` instead of `John`, and I had to determine what it meant. 
+I think that some historians do nt talk about this kind of work as I would persume that it has the ability to weaken the legitimacy of the claim, as you are merging words that look similar or have similar conotations which might not be valid in order to simplify the source.
 
 ### Commands and Learning objectives
-To start with learning about wrangling data, we first read over ______ textbook moduel. I found it to be a bit confussing to follow, but defenitly a good read to understand what we are trying to do this week!
+To start with learning about wrangling data, we first read over __textbook moduel__. I found it to be a bit confussing to follow, but defenitly a good read to understand what we are trying to do this week!
 One of the first commands that I entered into DHbox this week was: 
 
 `curl http://archive.org/stream/diplomaticcorre33statgoog/diplomaticcorre33statgoog_djvu.txt > texas.txt`
 
-The curl informs DHbox to download the link that I provided, and the > tells DHbox to put it in a new file called texas.txt
+The `curl` informs DHbox to download the link that I provided, and the `>` tells DHbox to put it in a new file called `texas.txt`
 Once I had downloaded this file to my computer, I opened it in a text file to delete all of the unwanted information which I found easier to do than going through the whole entire file on DHbox. I then reuploaded it. 
 
 The command:
 `grep '~' texas.txt > index.txt`
-makes everything so much easier! WHen I first read the instructions I thought that I would have to go through all of texas.txt file to remove lines without '~' but instead I was able to get grep to do it for me! 
+makes everything so much easier! WHen I first read the instructions I thought that I would have to go through all of `texas.txt` file to remove lines without `~` but instead I was able to get grep to do it for me! 
 
